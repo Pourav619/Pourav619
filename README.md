@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="[[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orchidfoundation.info%2Fcollege%2Findraprastha-institute-of-information-technology-iiitd-new-delhi-bebtech&psig=AOvVaw00zCfLM62d-YKB9NKL15Qc&ust=1720032560645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjnquGCiYcDFQAAAAAdAAAAABAK)](https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg)](https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp)"  />
+  <img height="200" src="[[[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orchidfoundation.info%2Fcollege%2Findraprastha-institute-of-information-technology-iiitd-new-delhi-bebtech&psig=AOvVaw00zCfLM62d-YKB9NKL15Qc&ust=1720032560645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjnquGCiYcDFQAAAAAdAAAAABAK)](https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg)](https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp)](https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg)"  />
 </div>
 <h2 align="left">Hey 👋! I am Pourav, Btech from IIIT Delhi.</h2>
 
@@ -72,7 +72,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp)"  />
 
 ###
 
