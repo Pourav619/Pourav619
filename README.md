@@ -4,7 +4,7 @@
 <h2 align="left">Hey 👋! I am Pourav, Btech from IIIT Delhi.</h2>
 
 <p align="center" dir="auto">
-<a href="https://github.com/Pourav619"> <img src="https://camo.githubusercontent.com/e20cf734ba5463611b91df79682ece525ff88cf5c96f78137ac88798ea8135d3/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d3744463946462677696474683d333830266865696768743d3435266c696e65733d416e64726f69642b446576656c6f7065723b4d616e67612b456e74687573696173743b52656372656174696f6e616c2b50726f6772616d6d65723b4e6963652b546f2b4d6565742b596f752bf09f9983267374796c653d626f6c642663656e7465723d74727565" alt="taking time to load" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&amp;width=380&amp;height=45&amp;lines=Android+Developer;Full+Stack+Web +Developer;Have+A+Nice+Day+😁&amp;style=bold&amp;center=true" style="max-width: 100%;"></a>
+<a href="https://github.com/Hyouteki"> <img src="https://camo.githubusercontent.com/c92abc05d5329944c3c64b5082f5d27f4c9f0a45a0a37253222fc36e620c1d70/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d374446394646266475726174696f6e3d323030302677696474683d333830266865696768743d3435266c696e65733d4d616368696e652b4c6561726e696e673b446565702b4c6561726e696e673b446174612b536369656e63653b4e61747572616c2b4c616e67756167652b50726f63657373696e673b4e6963652b546f2b4d6565742b596f752bf09f9983267374796c653d626f6c642663656e7465723d74727565" alt="taking time to load" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&amp;duration=2000&amp;width=380&amp;height=45&amp;lines=Machine+Learning;Deep+Learning;Data+Science;Natural+Language+Processing;Nice+To+Meet+You+🙃&amp;style=bold&amp;center=true" style="max-width: 100%;"></a>
 </p>
 
 ###
