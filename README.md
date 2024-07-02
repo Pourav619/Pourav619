@@ -1,9 +1,4 @@
-<div align="center">
-  <img height="200" src="[[[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orchidfoundation.info%2Fcollege%2Findraprastha-institute-of-information-technology-iiitd-new-delhi-bebtech&psig=AOvVaw00zCfLM62d-YKB9NKL15Qc&ust=1720032560645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjnquGCiYcDFQAAAAAdAAAAABAK)](https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg)](https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp)](https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg)"  />
-</div>
-<h2 align="left">Hey 👋! I am Pourav, Btech from IIIT Delhi.</h2>
-
-
+<h2 align="left">Hey 👋! I am Pourav and I'm a full stack developer from IIIT Delhi.</h2>
 
 ###
 
@@ -69,10 +64,17 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pourav619&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp)"  />
+<div align="center">
+  <img height="150" src="https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp"  />
+</div>
 
 ###
 
@@ -84,11 +86,16 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-
 ###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/pourav619/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg"  />
 </div>
 
 ###
