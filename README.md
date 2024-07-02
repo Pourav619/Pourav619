@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orchidfoundation.info%2Fcollege%2Findraprastha-institute-of-information-technology-iiitd-new-delhi-bebtech&psig=AOvVaw00zCfLM62d-YKB9NKL15Qc&ust=1720032560645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjnquGCiYcDFQAAAAAdAAAAABAK)"  />
+  <img height="200" src="[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.orchidfoundation.info%2Fcollege%2Findraprastha-institute-of-information-technology-iiitd-new-delhi-bebtech&psig=AOvVaw00zCfLM62d-YKB9NKL15Qc&ust=1720032560645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjnquGCiYcDFQAAAAAdAAAAABAK)](https://www.orchidfoundation.info/sites/default/files/2021-03/Indraprastha%20Institute%20of%20Information%20Technology.jpg)"  />
 </div>
 <h2 align="left">Hey 👋! I am Pourav, Btech from IIIT Delhi.</h2>
 
 <p align="center" dir="auto">
-<a href="https://github.com/Hyouteki"> <img src="https://camo.githubusercontent.com/c92abc05d5329944c3c64b5082f5d27f4c9f0a45a0a37253222fc36e620c1d70/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d374446394646266475726174696f6e3d323030302677696474683d333830266865696768743d3435266c696e65733d4d616368696e652b4c6561726e696e673b446565702b4c6561726e696e673b446174612b536369656e63653b4e61747572616c2b4c616e67756167652b50726f63657373696e673b4e6963652b546f2b4d6565742b596f752bf09f9983267374796c653d626f6c642663656e7465723d74727565" alt="taking time to load" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&amp;duration=2000&amp;width=380&amp;height=45&amp;lines=Machine+Learning;Deep+Learning;Data+Science;Natural+Language+Processing;Nice+To+Meet+You+🙃&amp;style=bold&amp;center=true" style="max-width: 100%;"></a>
+<a href="https://github.com/Hyouteki"> <img src="https://camo.githubusercontent.com/c92abc05d5329944c3c64b5082f5d27f4c9f0a45a0a37253222fc36e620c1d70/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d374446394646266475726174696f6e3d323030302677696474683d333830266865696768743d3435266c696e65733d4d616368696e652b4c6561726e696e673b446565702b4c6561726e696e673b446174612b536369656e63653b4e61747572616c2b4c616e67756167652b50726f63657373696e673b4e6963652b546f2b4d6565742b596f752bf09f9983267374796c653d626f6c642663656e7465723d74727565" alt="taking time to load" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=7DF9FF&amp;duration=2000&amp;width=380&amp;height=45&amp;lines=Android+Developer;Full+Stack+Web +Developer;Have+A+Nice+Day+😁;Nice+To+Meet+You+🙃&amp;style=bold&amp;center=true" style="max-width: 100%;"></a>
 </p>
 
 ###
@@ -71,21 +71,10 @@
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pourav619&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-</div>
-
-###
-
-<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FToeiAnimation-one-piece-zoro-straw-hat-bqd2d3SHaOEFhhar3o&psig=AOvVaw36JrcHGL2YYzI9lyEspMku&ust=1720035699906000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCascuOiYcDFQAAAAAdAAAAABAE)"  />
+<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2FToeiAnimation-one-piece-zoro-straw-hat-bqd2d3SHaOEFhhar3o&psig=AOvVaw36JrcHGL2YYzI9lyEspMku&ust=1720035699906000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCascuOiYcDFQAAAAAdAAAAABAE)](https://i.giphy.com/bqd2d3SHaOEFhhar3o.webp)"  />
 
 ###
 
